@@ -1,271 +1,209 @@
 
 effect.webp
-size: 1016,1036
+size: 1666,518
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-alladin
-  rotate: true
-  xy: 404, 34
-  size: 210, 270
-  orig: 210, 316
-  offset: 0, 46
-  index: -1
-day-monkey
-  rotate: true
-  xy: 461, 9
-  size: 23, 34
-  orig: 23, 34
+apple
+  rotate: false
+  xy: 1462, 5
+  size: 75, 70
+  orig: 75, 70
   offset: 0, 0
   index: -1
-denthan
-  rotate: false
-  xy: 676, 2
-  size: 278, 202
-  orig: 313, 254
-  offset: 24, 30
-  index: -1
-eff_spot_1
+bamboo-left-big
   rotate: true
-  xy: 559, 607
-  size: 427, 444
-  orig: 428, 444
-  offset: 1, 0
-  index: -1
-eff_spot_2
-  rotate: false
-  xy: 2, 654
-  size: 555, 380
-  orig: 582, 397
-  offset: 16, 0
-  index: -1
-eye
-  rotate: false
-  xy: 404, 6
-  size: 55, 26
-  orig: 57, 28
-  offset: 1, 1
-  index: -1
-frame-blue
-  rotate: false
-  xy: 2, 570
-  size: 499, 82
-  orig: 499, 83
-  offset: 0, 0
-  index: -1
-frame-coin
-  rotate: true
-  xy: 503, 264
-  size: 388, 46
-  orig: 399, 55
-  offset: 6, 8
-  index: -1
-frame-green
-  rotate: false
-  xy: 2, 486
-  size: 499, 82
-  orig: 499, 83
-  offset: 0, 0
-  index: -1
-frame-red
-  rotate: false
-  xy: 2, 406
-  size: 493, 78
-  orig: 495, 80
-  offset: 1, 1
-  index: -1
-hair
-  rotate: false
-  xy: 404, 322
-  size: 91, 82
-  orig: 91, 82
-  offset: 0, 0
-  index: -1
-light
-  rotate: true
-  xy: 404, 246
-  size: 74, 75
-  orig: 94, 94
-  offset: 10, 9
-  index: -1
-lightbig
-  rotate: false
-  xy: 2, 4
-  size: 400, 400
-  orig: 419, 420
-  offset: 10, 10
-  index: -1
-monkey
-  rotate: false
-  xy: 551, 434
-  size: 103, 171
-  orig: 117, 179
-  offset: 14, 8
-  index: -1
-mouse
-  rotate: false
-  xy: 956, 166
-  size: 58, 38
-  orig: 63, 40
-  offset: 2, 1
-  index: -1
-thanden
-  rotate: false
-  xy: 676, 206
-  size: 293, 399
-  orig: 293, 400
+  xy: 865, 225
+  size: 230, 299
+  orig: 230, 301
   offset: 0, 1
   index: -1
-
-effect2.webp
-size: 1286,86
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-gold/0
+blank
   rotate: false
-  xy: 248, 4
-  size: 77, 80
-  orig: 100, 100
-  offset: 13, 10
+  xy: 1166, 454
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
   index: -1
-gold/1
+bling
   rotate: false
-  xy: 84, 4
-  size: 80, 80
-  orig: 100, 100
-  offset: 10, 10
+  xy: 425, 8
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
   index: -1
-gold/10
+chest1
   rotate: false
-  xy: 1062, 4
-  size: 43, 80
-  orig: 100, 100
-  offset: 24, 10
+  xy: 865, 62
+  size: 185, 161
+  orig: 422, 170
+  offset: 117, 9
   index: -1
-gold/11
+coin_A_00
   rotate: false
-  xy: 1189, 4
-  size: 34, 80
-  orig: 100, 100
-  offset: 30, 10
+  xy: 1235, 87
+  size: 126, 126
+  orig: 250, 250
+  offset: 62, 62
   index: -1
-gold/12
-  rotate: false
-  xy: 1256, 4
-  size: 28, 80
-  orig: 100, 100
-  offset: 35, 10
+coin_A_01
+  rotate: true
+  xy: 1363, 97
+  size: 116, 131
+  orig: 250, 250
+  offset: 67, 59
   index: -1
-gold/13
+coin_A_02
   rotate: false
-  xy: 1225, 4
-  size: 29, 80
-  orig: 100, 100
-  offset: 37, 10
+  xy: 1496, 77
+  size: 80, 136
+  orig: 250, 250
+  offset: 85, 57
   index: -1
-gold/14
-  rotate: false
-  xy: 1152, 4
-  size: 35, 80
-  orig: 100, 100
-  offset: 36, 10
+coin_A_03
+  rotate: true
+  xy: 1235, 57
+  size: 28, 136
+  orig: 250, 250
+  offset: 111, 59
   index: -1
-gold/15
+coin_A_04
   rotate: false
-  xy: 1107, 4
-  size: 43, 80
-  orig: 100, 100
-  offset: 33, 10
+  xy: 1555, 289
+  size: 85, 139
+  orig: 250, 250
+  offset: 83, 57
   index: -1
-gold/16
+coin_A_05
   rotate: false
-  xy: 956, 4
-  size: 52, 80
-  orig: 100, 100
-  offset: 29, 10
+  xy: 694, 1
+  size: 128, 129
+  orig: 250, 250
+  offset: 64, 59
   index: -1
-gold/17
+dragon
   rotate: false
-  xy: 835, 5
-  size: 59, 79
-  orig: 100, 100
-  offset: 26, 10
+  xy: 562, 1
+  size: 130, 129
+  orig: 132, 131
+  offset: 1, 1
   index: -1
-gold/18
-  rotate: false
-  xy: 701, 5
-  size: 66, 79
-  orig: 100, 100
-  offset: 22, 10
+flag
+  rotate: true
+  xy: 524, 173
+  size: 282, 339
+  orig: 282, 339
+  offset: 0, 0
   index: -1
-gold/19
+freespins
   rotate: false
-  xy: 629, 5
-  size: 70, 79
-  orig: 100, 100
-  offset: 19, 10
+  xy: 1166, 215
+  size: 376, 69
+  orig: 376, 69
+  offset: 0, 0
   index: -1
-gold/2
+general/wood1
   rotate: false
-  xy: 166, 4
-  size: 80, 80
-  orig: 100, 100
-  offset: 10, 10
+  xy: 524, 457
+  size: 717, 60
+  orig: 717, 60
+  offset: 0, 0
   index: -1
-gold/20
+general/wood2
   rotate: false
-  xy: 481, 5
-  size: 74, 79
-  orig: 100, 100
-  offset: 16, 10
+  xy: 1, 189
+  size: 521, 328
+  orig: 521, 328
+  offset: 0, 0
   index: -1
-gold/3
+golds1
   rotate: false
-  xy: 2, 2
-  size: 80, 82
-  orig: 100, 100
-  offset: 10, 8
+  xy: 1243, 430
+  size: 422, 42
+  orig: 422, 170
+  offset: 0, 0
   index: -1
-gold/4
+golds1b
   rotate: false
-  xy: 327, 5
-  size: 76, 79
-  orig: 100, 100
-  offset: 10, 11
+  xy: 425, 132
+  size: 422, 39
+  orig: 422, 170
+  offset: 0, 4
   index: -1
-gold/5
+golds1c
   rotate: false
-  xy: 405, 5
-  size: 74, 79
-  orig: 100, 100
-  offset: 10, 11
+  xy: 1243, 474
+  size: 422, 43
+  orig: 422, 170
+  offset: 0, 0
   index: -1
-gold/6
+golds2
   rotate: false
-  xy: 557, 5
-  size: 70, 79
-  orig: 100, 100
-  offset: 11, 11
+  xy: 824, 19
+  size: 144, 41
+  orig: 422, 170
+  offset: 137, 73
   index: -1
-gold/7
+helmet
   rotate: false
-  xy: 769, 5
-  size: 64, 79
-  orig: 100, 100
-  offset: 13, 11
+  xy: 1, 17
+  size: 422, 170
+  orig: 422, 170
+  offset: 0, 0
   index: -1
-gold/8
+katana
   rotate: false
-  xy: 896, 4
-  size: 58, 80
-  orig: 100, 100
-  offset: 16, 10
+  xy: 1166, 286
+  size: 387, 142
+  orig: 422, 170
+  offset: 18, 0
   index: -1
-gold/9
+leaf 2
   rotate: false
-  xy: 1010, 4
-  size: 50, 80
-  orig: 100, 100
-  offset: 20, 10
+  xy: 1078, 15
+  size: 44, 43
+  orig: 52, 51
+  offset: 4, 8
+  index: -1
+leaf1
+  rotate: true
+  xy: 1028, 12
+  size: 46, 48
+  orig: 54, 56
+  offset: 4, 8
+  index: -1
+orange
+  rotate: false
+  xy: 1373, 14
+  size: 87, 81
+  orig: 89, 82
+  offset: 1, 0
+  index: -1
+pine
+  rotate: true
+  xy: 1052, 60
+  size: 153, 181
+  orig: 155, 182
+  offset: 1, 0
+  index: -1
+plum
+  rotate: false
+  xy: 1539, 2
+  size: 75, 73
+  orig: 76, 75
+  offset: 1, 1
+  index: -1
+plum2
+  rotate: false
+  xy: 1578, 213
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+straw
+  rotate: false
+  xy: 970, 13
+  size: 56, 47
+  orig: 57, 48
+  offset: 1, 1
   index: -1

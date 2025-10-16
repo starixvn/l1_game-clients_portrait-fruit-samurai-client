@@ -25,7 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "aladdinswishes",
+    storagePrefixKey: "fruitsamurai",
     tolgeeUrl: "",
     subPromotionDomain: "l2-promotion",
     sentry: {
