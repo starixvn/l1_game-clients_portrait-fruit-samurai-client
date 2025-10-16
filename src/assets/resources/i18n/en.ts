@@ -305,10 +305,11 @@ export const languages = {
         "auto_bet_para_3_3": "(Example: Set +20% → Start with $10 → win → next bet $12)",
         "auto_bet_para_4": "On Loss:",
         "auto_bet_para_4_1": "Reset: Return to your starting bet after a loss.",
-        "auto_bet_para_4_2": "Reset: Raise your bet by a set percentage when you lose.",
+        "auto_bet_para_4_2": "Increase by: Raise your bet by a set percentage when you lose.",
         "auto_bet_para_4_3": "(Example: Set +50% → Start with $10 → lose → next bet $15)",
         "auto_bet_para_5": "Stop on Win: Stop Auto Bet when reaching your win target.",
-        "auto_bet_para_6": "Stop on Loss: Stop Auto Bet when reaching your loss limit."
+        "auto_bet_para_6": "Stop on Loss: Stop Auto Bet when reaching your loss limit.",
+        "tooltip_live_stat": "Live Stat"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -394,9 +395,9 @@ export const languages = {
         "you_have_won": "You Have Won",
         "you_win_free_spin": "You win"
     },
-    "AladdinsWishes": {
-        "game_icon_name": "Aladdin's Wishes",
-        "game_name": "Aladdin's Wishes"
+    "FruitSamurai": {
+        "game_icon_name": "Fruit Samurai",
+        "game_name": "Fruit Samurai"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",

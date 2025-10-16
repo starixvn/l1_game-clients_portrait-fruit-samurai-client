@@ -1,7 +1,7 @@
 export const settings = {
     id: 139,
-    name: "AladdinsWishes",
-    tolgeeNamespaces: ["AladdinsWishes", "cascadingslot"],
+    name: "FruitSamurai",
+    tolgeeNamespaces: ["FruitSamurai", "cascadingslot"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
@@ -14,7 +14,7 @@ export const settings = {
     },
     isMiniGame: false,
     numberOfRoundHistory: 11,
-    observerNamespace: "AladdinsWishes",
+    observerNamespace: "FruitSamurai",
     validateBalanceWhenBet: true,
 };
 

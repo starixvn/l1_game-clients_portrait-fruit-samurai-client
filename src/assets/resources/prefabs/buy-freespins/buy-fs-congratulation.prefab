@@ -348,8 +348,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.86,
+      "y": 0.86,
       "z": 1
     },
     "_mobility": 0,
@@ -467,7 +467,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "show",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -1028,6 +1028,8 @@
       "__id__": 0
     },
     "fileId": "d4HHMixe9CmpDDex77DcZq",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -1276,8 +1278,6 @@
       "__id__": 0
     },
     "fileId": "81YqL0OR9Ho6D8FhaEIrJs",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
